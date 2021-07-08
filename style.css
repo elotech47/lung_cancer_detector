@@ -1,0 +1,9 @@
+body {
+    background-color:white;
+    color : rgb(84, 84, 173)
+}
+
+.fullScreenFrame > div {
+    display: flex;
+    justify-content: center;
+}
